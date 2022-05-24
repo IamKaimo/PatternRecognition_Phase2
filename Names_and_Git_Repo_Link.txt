@@ -1,0 +1,17 @@
+name: احمد محمد ابو الفتوح محمود  / Ahmed Mohamed Aboelfotoh Mahmoud	 
+sec:1  code:1700154  
+ 
+
+name:احمد محمد عبد الحكيم محمد / Ahmed Mohamed Abdelhakim Mohamed	
+sec:1  code:1700176  
+ 
+
+name:احمد محمد احمد عبد الغني / Ahmed Mohamed Ahmed Abdelghany
+sec:1  code:1700158  
+ 
+
+name:هايدي عمرو احمد عبد الحكيم / Haidy Amr Ahmed Abdel-Hakeem
+code:1701635
+
+
+Github repo link : https://github.com/Kaiimoo/PatternRecognition_Phase2
